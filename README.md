@@ -1,6 +1,8 @@
 ## Yo I'm Norvin 👋
 
-🌱 I’m currently learning Android Compose
+🌱 I’m currently learning [Android Compose](https://developer.android.com/develop/ui/compose)
+
+👨‍💻 I'm working as Mobile Fullstack Engineer
 
 # Tech Stack
 <div>
